@@ -1,0 +1,6 @@
+name: CampfireShooter
+main: campfire.brainsynder.CampfireShooter
+version: ${project.version}
+depends: [SimpleAPI]
+authors: [brainsynder]
+api-version: 1.14
